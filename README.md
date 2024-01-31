@@ -1,5 +1,7 @@
 # Masked Loader Animation using GSAP
 
+https://github.com/uzoway/gsap-masked-loader-animation/assets/73430874/fc7fdff3-9813-4720-b936-aa93be8b1839
+
 This repo is for the development of a masked loader animation as a concept designed by [Torfs Bob](https://www.instagram.com/torfsbob/) [here](https://www.instagram.com/p/C2sDEdAtad8/?img_index=1). 
 
 ## Table of contents
